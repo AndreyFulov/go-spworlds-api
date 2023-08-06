@@ -1,4 +1,4 @@
-package spworlds
+package spw
 
 import (
 	"encoding/base64"
